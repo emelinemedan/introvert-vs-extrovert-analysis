@@ -6,7 +6,7 @@ It includes **data preprocessing**, **visual analysis**, and an interactive **Lo
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - Exploratory data analysis of personality traits
 - Visualizations: distributions, correlations, comparative insights
@@ -17,7 +17,7 @@ It includes **data preprocessing**, **visual analysis**, and an interactive **Lo
 
 ## Dashboard
 
-🔗 **Access the interactive report here**:  
+**Access the interactive report here**:  
 [View on Looker Studio](https://lookerstudio.google.com/u/0/reporting/dbbc4fa9-fbe0-473b-bc78-5e18cc8014c2/page/ZWJQF)  
 
 ---
